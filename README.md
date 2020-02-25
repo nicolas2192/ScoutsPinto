@@ -5,5 +5,5 @@ By clicking on "Generar Reportes" the code loops each entry opening the template
 There is no entries (rows) nor tags (columns) limit. However, notice there should always be one empty column between tags and "Last Generation" column.
 Columns A and B (PDF and Email) should always have either "SI" or "NO". Likewise, these two first columns shouldn't be deleted. 
 
-
+![](Images/main.png)
 
